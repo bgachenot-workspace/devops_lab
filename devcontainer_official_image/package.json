@@ -1,0 +1,18 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Simple Express API",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "nodemon": "nodemon main.js"
+  },
+  "author": "Brandon Gachenot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
